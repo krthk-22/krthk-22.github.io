@@ -4,5 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+This is Karthikeya. A CSE Undegrad at [IIT Madras](https://www.iitm.ac.in/). Currently figuring out what do in life, enjoying the exploration and the journey. I am interested in lot of things a few of them are Mathematics, Theoretical Computer Science, Movies, Sports. Apart from these I love travelling to new places and reading books.
