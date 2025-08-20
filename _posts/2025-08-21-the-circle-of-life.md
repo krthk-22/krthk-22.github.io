@@ -22,7 +22,7 @@ date: 2025-08-21 00:46 +0530
 
 **Author:** Sudha Murthy[^wiki] \\
 **Rating:** ⭐⭐⭐⭐ (out of 5) \\
-**Recommended by:** [Karthikeya](krthk-22.github.io)
+**Recommended by:** [Karthikeya](/)
 
 ---
 

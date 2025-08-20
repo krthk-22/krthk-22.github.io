@@ -9,6 +9,7 @@ tags:
 - Computational Geometry
 description: An interesting project which I enjoyed a lot working on.
 math: true
+hidden: true
 date: 2025-01-28 20:47 +0530
 ---
 This is one of very interesting projects that I have done during my B.tech at IIT Madras. I learnt [Voronoi Diagrams](https://en.wikipedia.org/wiki/Voronoi_diagram)(VD) as a part of [Algorithms in Computational Geometry](https://ed.iitm.ac.in/~raman/algcomp.html) course, they fascinated me and then I decided to explore more variations of the same. I asked this question "How will the voronoi diagram look like if we consider some ratio between the distances of the points instead of them being always Equidistant?" and then I started exploring the same.
