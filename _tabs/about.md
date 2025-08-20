@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 1
 ---
 
 This is Karthikeya. I am a third year Computer Science and Engineering Undergraduate at Indian Institute of Technology Madras. 

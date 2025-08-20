@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Calendar
+permalink: /calendar/
 icon: fas fa-calendar-alt
 order: 5
 ---
