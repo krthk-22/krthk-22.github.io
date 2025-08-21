@@ -122,7 +122,7 @@ comments:
     repo: krthk-22/krthk-22.github.io
     repo_id: R_kgDONkqoOA
     category: General
-    category_id: DIC_kwDONkqoOM4CucL3
+    category_id: DIC_kwDONkqoOM4CucL4
     mapping: pathname
     strict: 0
     input_position: bottom
@@ -177,7 +177,7 @@ defaults:
       type: posts
     values:
       layout: post
-      comments: true # Enable comments in posts.
+      comments: false # Disable comments in posts.
       toc: true # Display TOC column in posts.
       # DO NOT modify the following parameter unless you are confident enough
       # to update the code of all other post links in this project.
