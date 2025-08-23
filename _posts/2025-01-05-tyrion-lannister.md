@@ -7,6 +7,7 @@ category:
 tags:
 - Game of Thrones
 - Series
+math: true
 description: Reflections on Tyrion Lannister, my favorite character from Game of Thrones—his wit, intelligence, memorable dialogues, and the emotional depth of his journey, especially highlighted by his powerful courtroom speech.
 date: 2025-01-05 16:30 +0530
 ---
@@ -21,4 +22,4 @@ The trial of Tyrion is my most favourite scene of the entire series. When he was
 ![Courtroom Speech](/assets/img/Tyrion-Speech.avif)
 "I did not kill Joffrey, but I wish that I had! Watching your vicious bastard die gave me more relief than a thousand lying whores! I wish I was the monster you think I am! I wish I had enough poison for the whole pack of you! I would gladly give my life to watch you all swallow it!" - Tyrion
 
-This was one of the iconic sentences delivered and the beauty of the sentence lies in capturing everyone involved starting from the `bastard` referring to Joffery highlighting that he was the son of Jaime and Cersei. `Whores` referring to Shae who used to be a whore. The way the dialogue captured all the internal rush is just amazing.
+This was one of the iconic sentences delivered and the beauty of the sentence lies in capturing everyone involved starting from the `bastard` $\rightarrow$ `Joffery` highlighting that he was the son of `Jaime and Cersei`. `Whores` $\rightarrow$ `Shae` who used to be a whore. The way the dialogue captured all the internal rush of emotions from his past is just amazing.
