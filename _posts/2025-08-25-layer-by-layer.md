@@ -15,7 +15,7 @@ description: This paper investigates whether the middle or final layers of langu
   is distributed across model layers.
 date: 2025-08-25 11:21 +0530
 ---
-**Authors:** Oscar Skean, Md Rifat Arefin, Dan Zhao, Niket Patel, Jalal Naghiyev, Yann LeCun, Ravid Shwartz-Ziv
+**Authors:** Oscar Skean, Md Rifat Arefin, Dan Zhao, Niket Patel, Jalal Naghiyev, Yann LeCun, Ravid Shwartz-Ziv \\
 **Link:** [pdfversion](https://arxiv.org/abs/2502.02013)
 
 ---
