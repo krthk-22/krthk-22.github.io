@@ -8,7 +8,6 @@ tags:
 - GoT
 - Series
 - Fantasy
-pin: true
 math: true
 description: Reflections on Tyrion Lannister, my favorite character from Game of Thrones—his wit, intelligence, memorable dialogues, and the emotional depth of his journey, especially highlighted by his powerful courtroom speech.
 date: 2025-01-05 16:30 +0530
