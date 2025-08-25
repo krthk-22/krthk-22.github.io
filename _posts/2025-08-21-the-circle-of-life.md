@@ -3,11 +3,11 @@ layout: page
 title: The Circle of Life by Sudha Murthy
 categories:
 - Books
+- Fiction
 tags:
 - reads
 - genre
 - memoir
-- non-fiction
 - fiction
 hidden: true
 date: 2025-08-21 00:46 +0530

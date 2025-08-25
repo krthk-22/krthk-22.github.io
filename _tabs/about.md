@@ -10,6 +10,6 @@ Currently figuring out what do in life, enjoying the exploration and the experie
 
 I do binge-watch a lot of series mostly Crime and Sport Documentaries (might sound boring but I love them). I am a huge fan of [Game of Thrones]({{ site.url }}/categories/game-of-thrones/), Money Heist. Recently, I started following [Formula 1](https://www.formula1.com/) (got interested after watching Drive to Survive).
 
-I try to express my views on the books I read (if you are interested, you can look here for [books]({{ site.url }}/categories/books)).
+I try to express my views, thoughts and takeaways from the [books]({{ site.url }}/categories/books) and [research papers]({{ site.url }}/categories/papers) I read.
 
 If you would like to meet me or have a discussion with me (on anything under the sky or beyond) I would be very interested, please check my availability in this [calendar]({{ site.url }}/calendar/) and feel free to connect.

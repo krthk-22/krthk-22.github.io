@@ -10,6 +10,7 @@ tags:
 - Interpretability
 hidden: false
 math: true
+pin: false
 description: This paper investigates whether the middle or final layers of language
   models capture more informative representations, providing insights into how knowledge
   is distributed across model layers.
