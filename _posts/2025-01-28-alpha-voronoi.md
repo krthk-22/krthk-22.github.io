@@ -5,8 +5,8 @@ categories:
 - Projects
 - Computational Geometry
 tags:
-- Voronoi Diagrams
-- Computational Geometry
+- voronoi
+- geometry
 description: An interesting project which I enjoyed a lot working on.
 math: true
 hidden: true
@@ -48,7 +48,7 @@ The simulations are made as follows: Take a grid and mark $$n$$ points on each a
 ![Desktop View](/assets/img/dominant_regions.webp)
 
 ## Learning
-After working with the simualations and a lot of thinking and observations, I was able to come up with a way to compute the VD for any set of points with weights. You can find the details of the final algorithm [here](/assets/pdfs/Voronoi.pdf) (which was inspired from the Fortune's Algorithm).
+After working with the simualations and a lot of thinking and observations, I was able to come up with a way to compute the VD for any set of points with weights. You can find the details of the final algorithm [here](/assets/files/Voronoi.pdf) (which was inspired from the Fortune's Algorithm).
 
 ## Conclusion
 This is the project that I enjoyed a lot working and brainstorming on. This gave me a flavor of how research goes on and how to think about a problem in a more deeper and meaningful sense. This project also made me realise not to make any unnatural assumptions. I am very happy to come up with a solution to the problem and I am looking forward to explore more such problems in the future and contribute to the field of Computational Geometry.

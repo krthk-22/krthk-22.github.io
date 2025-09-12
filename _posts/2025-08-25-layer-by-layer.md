@@ -2,12 +2,13 @@
 layout: post
 title: Layer by Layer - Uncovering Hidden Representations in Language Models
 categories:
-- Papers
-- Deep Learning
+- Research
+- SENAI Lab
 tags:
-- Transformers
-- DL
-- Interpretability
+- transformers
+- deep learning
+- interpretability
+- research
 hidden: false
 math: true
 description: This paper investigates whether the middle or final layers of language
@@ -15,7 +16,9 @@ description: This paper investigates whether the middle or final layers of langu
   is distributed across model layers.
 date: 2025-08-25 11:21 +0530
 ---
-**Authors:** Oscar Skean, Md Rifat Arefin, Dan Zhao, Niket Patel, Jalal Naghiyev, Yann LeCun, Ravid Shwartz-Ziv \\
+
+**Paper:** Layer by Layer - Uncovering Hidden Representations in Language Models \\
+**Authors:** [Oscar Skean](https://scholar.google.com/citations?hl=en&user=XO1nKsUAAAAJ), [Md Rifat Arefin](https://scholar.google.com/citations?hl=en&user=aXeKuJ8AAAAJ), [Dan Zhao](https://scholar.google.com/citations?user=gODFPYIAAAAJ&hl=en), [Niket Patel](https://scholar.google.com/citations?hl=en&user=YE-HWjwAAAAJ), [Jalal Naghiyev](https://scholar.google.com/citations?hl=en&user=w5uC4i8AAAAJ), [Yann LeCun](https://scholar.google.com/citations?hl=en&user=WLN3QrAAAAAJ), [Ravid Shwartz-Ziv](https://scholar.google.com/citations?hl=en&user=SqsLFwMAAAAJ) \\
 **Link:** [pdfversion](https://arxiv.org/abs/2502.02013)
 
 ---
@@ -116,3 +119,5 @@ The middle-layer embeddings are consistently performing better compared to the f
 - How would these representations do in case of Speech Models?
 - How would the dominance of the middle-layers change if we change the diversity of the corpus?
 - Are there any other possible unified metrics that can capture more perspectives?
+
+---

@@ -5,9 +5,9 @@ categories:
 - Experiences
 - Corporate
 tags:
-- Intern
-- Quant
-- Graviton
+- intern
+- quant
+- friends
 description: My first ever Corporate Experience as an Intern
 math: true
 date: 2025-09-08 10:55 +0530
