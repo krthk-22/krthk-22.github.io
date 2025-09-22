@@ -1,16 +1,17 @@
 ---
-layout: page
-title: Random Thoughts
+layout: post
+title: The (one) Thing
 categories:
 - Thoughts
 tags:
 - random
 - thought
 - life
-hidden: true
+hidden: false
 math: true
-description: A place where I post random (prolly deep) thoughts that come to me.
-date: 2025-09-19 11:31 +0530
+description: Ever had this thought about the one thing that would keep you happy forever.
+  This is what I feel about my one thing.
+date: 2025-09-19 18:39 +0530
 ---
 ## What is that one thing?
 
