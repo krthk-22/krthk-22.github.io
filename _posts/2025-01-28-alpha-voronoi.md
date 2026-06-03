@@ -2,7 +2,7 @@
 layout: post
 title: α Voronoi Diagrams
 categories:
-- Projects
+- Research
 - Computational Geometry
 tags:
 - voronoi
